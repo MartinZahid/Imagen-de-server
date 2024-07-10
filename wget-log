@@ -1,0 +1,32 @@
+--2024-07-10 07:45:47--  https://drive.usercontent.google.com/u/1/uc?id=1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT
+Resolving drive.usercontent.google.com (drive.usercontent.google.com)... 142.251.34.33, 2607:f8b0:4012:829::2001
+Connecting to drive.usercontent.google.com (drive.usercontent.google.com)|142.251.34.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://drive.usercontent.google.com/uc?id=1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT [following]
+--2024-07-10 07:45:47--  https://drive.usercontent.google.com/uc?id=1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT
+Reusing existing connection to drive.usercontent.google.com:443.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://drive.usercontent.google.com/download?id=1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT [following]
+--2024-07-10 07:45:47--  https://drive.usercontent.google.com/download?id=1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT
+Reusing existing connection to drive.usercontent.google.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.usercontent.google.com/download?id%3D1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT&followup=https://drive.usercontent.google.com/download?id%3D1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT [following]
+--2024-07-10 07:45:47--  https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.usercontent.google.com/download?id%3D1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT&followup=https://drive.usercontent.google.com/download?id%3D1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT
+Resolving accounts.google.com (accounts.google.com)... 142.251.116.84, 2607:f8b0:4023:1009::54
+Connecting to accounts.google.com (accounts.google.com)|142.251.116.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://accounts.google.com/InteractiveLogin?continue=https://drive.usercontent.google.com/download?id%3D1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT&followup=https://drive.usercontent.google.com/download?id%3D1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT&passive=1209600&service=wise&ifkv=AdF4I77d6QlDffpcGsQjJMg2bTklttYATlUlaFlJgxhVw73HnPc0ZLgW67HKc8O7rW7Ht7--k3-1rA [following]
+--2024-07-10 07:45:47--  https://accounts.google.com/InteractiveLogin?continue=https://drive.usercontent.google.com/download?id%3D1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT&followup=https://drive.usercontent.google.com/download?id%3D1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT&passive=1209600&service=wise&ifkv=AdF4I77d6QlDffpcGsQjJMg2bTklttYATlUlaFlJgxhVw73HnPc0ZLgW67HKc8O7rW7Ht7--k3-1rA
+Reusing existing connection to accounts.google.com:443.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.usercontent.google.com%2Fdownload%3Fid%3D1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT&followup=https%3A%2F%2Fdrive.usercontent.google.com%2Fdownload%3Fid%3D1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT&ifkv=AdF4I776hCvPBXXk-d-S9-YdLUvrdRVVeqxJvfA5gXjcrzdD5yz4wN3zmh1p9KsOid8xUA-Xqh_XNA&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-199534600%3A1720597547937484 [following]
+--2024-07-10 07:45:47--  https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.usercontent.google.com%2Fdownload%3Fid%3D1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT&followup=https%3A%2F%2Fdrive.usercontent.google.com%2Fdownload%3Fid%3D1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT&ifkv=AdF4I776hCvPBXXk-d-S9-YdLUvrdRVVeqxJvfA5gXjcrzdD5yz4wN3zmh1p9KsOid8xUA-Xqh_XNA&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-199534600%3A1720597547937484
+Reusing existing connection to accounts.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘uc?id=1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT’
+
+                uc?id=1F64srC16w     [<=>                                                       ]       0  --.-KB/s               uc?id=1F64srC16wYw_xRGxb_xVUOPUP     [ <=>                                                      ] 167.85K  --.-KB/s    in 0.09s   
+
+2024-07-10 07:45:48 (1.79 MB/s) - ‘uc?id=1F64srC16wYw_xRGxb_xVUOPUP4Kn3qMT’ saved [171876]
+

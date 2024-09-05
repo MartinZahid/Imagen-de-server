@@ -15,10 +15,10 @@ java.lang.IllegalStateException: Failed to initialize server
 	at net.minecraft.server.MinecraftServer.y(SourceFile:716) ~[server-1.21.jar:?]
 	at net.minecraft.server.MinecraftServer.a(SourceFile:281) ~[server-1.21.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[02:00:12] [Server thread/ERROR]: This crash report has been saved to: /home/ubuntu/Imagen-de-server/crash-reports/crash-2024-09-03_02.00.12-server.txt
-[02:00:12] [Server thread/INFO]: Stopping server
-[02:00:12] [Server thread/INFO]: Saving worlds
-[02:00:12] [Server thread/ERROR]: Exception stopping the server
+[02:00:13] [Server thread/ERROR]: This crash report has been saved to: /home/ubuntu/Imagen-de-server/crash-reports/crash-2024-09-04_02.00.13-server.txt
+[02:00:13] [Server thread/INFO]: Stopping server
+[02:00:13] [Server thread/INFO]: Saving worlds
+[02:00:13] [Server thread/ERROR]: Exception stopping the server
 java.lang.NullPointerException: Cannot invoke "aqu.C_()" because "$$5" is null
 	at net.minecraft.server.MinecraftServer.a(SourceFile:561) ~[server-1.21.jar:?]
 	at net.minecraft.server.MinecraftServer.v(SourceFile:620) ~[server-1.21.jar:?]
